@@ -1,0 +1,7 @@
+README CODEBASE
+
+1. Project name - CodeBase
+2. Project description - CodeBase mobile application is created to solve a pressing problem in the IT sphere – the difficulty of finding like-minded people and specialists to implement projects, participate in hackathons or get help with development. Many talented IT specialists often face the fact that it is difficult for them to find a suitable team to implement their ideas, and existing platforms do not always provide the necessary functionality. Our project eliminates this gap, providing a convenient and fast platform for finding partners and exchanging experience.
+3. installation and launch - First, you need to download the library from Xcode, this library is called Firebase, from them you need to select only FirebaseFireStore, FirebaseAuth, FirebaseStorage. To run the full project, you will need to download the iPhone simulator, and 17 iOS and above. After all the procedures, you can run the project.
+4. Functions and technologies used - This project used such functions as: User authentication, using the logic of sending messages using Firebase Firestore, using the logic of sending images, videos, uploading profile photos using Firebase Storage, functionality of creating posts with a choice of tag, specifying a budget, an integrated system of filtering projects, functionality of describing your profile, displaying posts from authorized users, integration of communication tools, logic of creating a post, displaying a post for other people.
+5. Author - The CodeBase project was created by Alikhan Mukaev
